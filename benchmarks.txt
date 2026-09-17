@@ -1,0 +1,15 @@
+benchmark:
+
+c code:
+1 guess  :     1 prime (  0.09%)
+2 guesses:   24 primes (  2.26%)
+3 guesses:  368 primes ( 34.68%)
+4 guesses:  639 primes ( 60.23%)
+5 guesses:   29 primes (  2.73%)
+
+python code:
+1 guess  :     1 prime ( 0.09%)
+2 guesses:   12 primes ( 1.13%)
+3 guesses:  251 primes (23.66%)
+4 guesses:  706 primes (66.54%)
+5 guesses:   92 primes ( 8.67%)
