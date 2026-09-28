@@ -27,3 +27,10 @@ tree 2 (primesolvermaker_better):
 3 guesses:  587 primes (?????%)
 4 guesses:  449 primes (?????%)
 5 guesses:    1 primes ( 0.09%)
+
+tree 3 (primesolver_deluxe (c++)):
+1 guess  :    1 prime  ( 0.09%)
+2 guesses:   28 primes (?????%)
+3 guesses:  598 primes (?????%)
+4 guesses:  434 primes (?????%)
+5 guesses:    0 primes ( 0.00%)

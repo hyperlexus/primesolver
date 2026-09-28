@@ -1,9 +1,7 @@
 cmake_minimum_required(VERSION 4.2)
-project(primesolver C)
+project(primesolver)
 
-set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_FLAGS -fopenmp)
 
-add_executable(primesolver main.c
-)
-
-target_link_libraries(primesolver m)
+add_executable(primesolver main.cpp)

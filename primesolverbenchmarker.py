@@ -2,7 +2,7 @@ import json
 import sys
 from math import isqrt
 
-path = sys.argv[1] if len(sys.argv) > 1 else "primewordletree.json"
+path = sys.argv[1] if len(sys.argv) > 1 else "primewordletree3.json"
 with open(path) as f:
     tree = json.load(f)
 
